@@ -1,0 +1,11 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+.next
+.git
+.DS_Store
+README.md
+.env.local
